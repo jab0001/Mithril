@@ -1,0 +1,24 @@
+.taskInput {
+    margin-bottom: 10px;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .taskList {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .taskItem {
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .taskItem:hover {
+    background-color: #f4f4f4;
+  }
+
+  .addButton:hover {
+    opacity: 0.5;
+  }
